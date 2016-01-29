@@ -2,7 +2,11 @@ this is a test
 xyz
 abc
 
+<<<<<<< HEAD
 123
 
 
 Daddy!
+=======
+123 xx
+>>>>>>> f26eea1cb2c9db79b7a216130a027063191248a5

@@ -2,8 +2,12 @@ this is a test file too!
 
 xxx
 
+<<<<<<< HEAD
 113
 
 
 
 Mommy!
+=======
+113   zz
+>>>>>>> f26eea1cb2c9db79b7a216130a027063191248a5
